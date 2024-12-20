@@ -1,6 +1,13 @@
+# WowSideStories
+
 https://wowpyscholpedia.fandom.com/wiki/ <----------Not much in this
 
-# WowSideStories
+# WoW Anniversary
+
+https://worldofwarcraft.blizzard.com/en-us/news/24167661/wow-classic-20th-anniversary-edition-phase-2-arrives-january-9
+
+## Jaina
+
 ![thisbambooisraw_Wow_Jaina_as_jailer_37537a51-238f-4e5b-a0eb-ffc7b81a67e7](https://github.com/ewdlop/WowSideStories/assets/25368970/b1137e54-769c-4e3a-b94d-52bca47606f5)
 
 ![thisbambooisraw_Wow_Jaina_screams_in_pain_33e90aca-a03c-4039-bd25-7bcb657bec67](https://github.com/ewdlop/WowSideStories/assets/25368970/448b9849-8dd9-4a77-8087-44d79ca9ca9c)
